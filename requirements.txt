@@ -2,7 +2,7 @@ comet-ml==2.0.16
 h5py==2.9.0
 ipython==7.9.0
 jupyter==1.0.0
-Pillow==6.2.1
+Pillow==8.2.0
 tensorflow==2.0.0
 tensorflow-addons==0.6.0
 pyyaml==5.1.2
