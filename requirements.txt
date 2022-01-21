@@ -1,7 +1,7 @@
 comet-ml==2.0.16
 gdown==3.13.0
 h5py==2.9.0
-ipython==7.9.0
+ipython==7.16.3
 jupyter==1.0.0
 Pillow==6.2.1
 tensorflow-gpu==2.0.0
